@@ -1,5 +1,5 @@
 # Hey!
-## I'm Alex, and this page is where the majority of my computing projects will be.
+#### I'm Alex, and this page is where the majority of my computing projects will be.
 
 I enjoy experimenting with a variety of tools, languages and applications:
 - Node.js
