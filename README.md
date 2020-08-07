@@ -48,4 +48,4 @@ Processing / p5.js
 
 ### I also have a [portfolio site][portfolio]. It's slow going but we're getting there!
 
-[portfolio]: 'https://ah-pf.co.uk'
+[portfolio]: https://ah-pf.co.uk
