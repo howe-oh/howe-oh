@@ -3,7 +3,7 @@
 
 I enjoy experimenting with a variety of tools, languages and applications:
 
-<img alt="Node Icon" width="25px" src="https://raw.githubusercontent.com/howe-oh/howe-oh/master/assets/node.png" /> Node.js
+<img alt="Node Icon" width="25px" style="vertical-align: middle" src="https://raw.githubusercontent.com/howe-oh/howe-oh/master/assets/node.png" /> Node.js
 
 <img alt="React Icon" width="25px" src="https://raw.githubusercontent.com/howe-oh/howe-oh/master/assets/react.png" /> React JS & Native 
 
