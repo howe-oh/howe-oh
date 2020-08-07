@@ -46,4 +46,4 @@ Python
 />
 Processing / p5.js
 
-## I also have a [portfoliio site](https://ah-pf.co.uk)
+### I also have a [portfolio site](https://ah-pf.co.uk). It's slow going but we're getting there!
