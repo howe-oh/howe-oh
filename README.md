@@ -1,6 +1,6 @@
 # Hey!
 
-### I'm Alex, and this page is where the majority of my computing projects will be.
+### I'm Alex, and this page is where most of my computing projects reside. Have a look around!
 
 I enjoy experimenting with a variety of tools, languages and applications:
 
