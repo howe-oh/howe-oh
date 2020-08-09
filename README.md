@@ -1,3 +1,5 @@
+<img src="https://github.com/howe-oh/howe-oh/blob/master/assets/ezgif-5-18e0c72c4525.gif" />
+
 # Hey!
 
 ### I'm Alex, and this page is where most of my computing projects reside. Have a look around!
