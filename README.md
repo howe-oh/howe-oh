@@ -2,7 +2,7 @@
 
 # Hey!
 
-### I'm Alex, and this page is where most of my computing projects reside. Have a look around!
+### I'm [Alex][pf-me], and this page is where most of my computing projects reside. Have a look around!
 
 I enjoy experimenting with a variety of tools, languages and applications:
 
@@ -20,3 +20,4 @@ I enjoy experimenting with a variety of tools, languages and applications:
 ### I also have a [portfolio site][portfolio]. It's slow going but we're getting there!
 
 [portfolio]: https://ah-pf.co.uk
+[pf-me]: https://ah-pf.co.uk/me
