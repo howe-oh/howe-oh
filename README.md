@@ -2,7 +2,7 @@
 
 # Hey!
 
-### I'm [Alex][pf-me], and this page is where most of my computing projects reside. Have a look around!
+### I'm [Alex][portfolio], and this page is where most of my computing projects reside. Have a look around!
 
 I enjoy experimenting with a variety of tools, languages and applications:
 
@@ -17,7 +17,6 @@ I enjoy experimenting with a variety of tools, languages and applications:
 | <img src="https://img.icons8.com/color/96/000000/html-5.png"/><br> HTML5                   | <img src="https://img.icons8.com/fluent/96/000000/visual-studio-code-2019.png"/><br> Visual Studio Code & VS2019    |
 
 
-### I also have a [portfolio site][portfolio]. It's slow going but we're getting there!
+### I also have a [portfolio site][portfolio].
 
 [portfolio]: https://ah-pf.co.uk
-[pf-me]: https://ah-pf.co.uk/me
