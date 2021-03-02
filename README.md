@@ -2,7 +2,7 @@
 
 # Hey!
 
-### I'm [Alex][portfolio], and this page is where most of my computing projects reside. Have a look around!
+### I'm [Allie][portfolio], and this page is where most of my computing projects reside. Have a look around!
 
 I enjoy experimenting with a variety of tools, languages and applications:
 
